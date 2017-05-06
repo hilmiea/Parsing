@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\intermediate1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\art_clouds.png",
+        "source": "E:\\intermediate1\\app\\src\\main\\res\\mipmap-hdpi\\art_clouds.png"
+    },
+    {
+        "merged": "E:\\intermediate1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\art_light_rain.png",
+        "source": "E:\\intermediate1\\app\\src\\main\\res\\mipmap-hdpi\\art_light_rain.png"
+    },
+    {
+        "merged": "E:\\intermediate1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\art_light_clouds.png",
+        "source": "E:\\intermediate1\\app\\src\\main\\res\\mipmap-hdpi\\art_light_clouds.png"
+    },
+    {
+        "merged": "E:\\intermediate1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "E:\\intermediate1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\intermediate1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\art_clear.png",
+        "source": "E:\\intermediate1\\app\\src\\main\\res\\mipmap-hdpi\\art_clear.png"
+    }
+]
